@@ -4847,9 +4847,6 @@ a:hover {
     }
   
     /***** Moose SVG *****/
-    footer {
-        height: 100%;
-    }
     #pixmoose path {
         fill: none;
         stroke: black;
