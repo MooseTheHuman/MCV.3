@@ -325,6 +325,7 @@ img.responsive {
 
 .background-color--dark-grey {
     background: url(images/forest.jpg);
+    background-color: white;
 }
 .background-color--contact {
     background-color: #332f2e;
