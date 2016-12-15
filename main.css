@@ -1022,7 +1022,7 @@ a:hover {
     #pixmoose path {
 /*        fill: none;*/
 /*        stroke: black;*/
-        stroke-width: 1;
+        stroke-width: 1.5;
         stroke-linecap: round;
         stroke-linejoin: round;
         stroke-miterlimit: 10;
@@ -1031,13 +1031,13 @@ a:hover {
     .moosebody {
         stroke-dasharray: 600;
         animation: write4 1.2s 1 ease-in;
-        stroke: #7d3708;
+        stroke: #4b2104;
         fill: #7d3708;
     }
     .mooseantler {
         stroke-dasharray: 220;
         animation: write5 1.2s 1 ease-in;
-        stroke: #cd8a4d;
+        stroke: #7b522e;
         fill: #cd8a4d;
     }
     .moosedot {
