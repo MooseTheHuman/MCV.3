@@ -311,8 +311,8 @@ img.responsive {
     border-color: #bebab4;
 }
 
-.background-color--red {
-    background-color: #6f6764;
+.background-color--dark {
+    background-color: #332f2e;
 }
 
 .text-color--dark-grey {
@@ -328,7 +328,7 @@ img.responsive {
     background-color: white;
 }
 .background-color--contact {
-    background-color: #332f2e;
+    background-color: #6f6764;
 }
 .text-color--grey {
     color: #b3b3b3
